@@ -1,6 +1,6 @@
 # Valgrind Docker
 
-This repository contains a Dockerfile for building a Docker image with Valgrind installed. The purpose of this image is to be able to run Valgrind on a binary compiled for a different architecture than the host machine, or to run Valgrind on unsupported architectures (e.g. Apple Silicon).
+This repository contains a Dockerfile for building a Docker image with Valgrind and zsh installed. The purpose of this image is to be able to run Valgrind on a binary compiled for a different architecture than the host machine, or to run Valgrind on unsupported architectures (e.g. Apple Silicon).
 
 ## Usage
 
